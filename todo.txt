@@ -1,0 +1,29 @@
+1. Create connection to IDGB and display data in JSON in console
+    - Create library component then gameCard component
+    - Get JSON data and display on gameCard
+2. Create Topbar and search element + login 
+    - Login should be oAuth but built freehand, no Firebase
+    - CRUD will be the same
+3. Homepage will show most recently played game and 5 other games from player library
+
+
+NOTE: Will need to load information on login about which games are owned and on which platform.
+This should load before the player sees their library. Could do it with dummy data and a setTimeout.
+First platforms to include:
+    - Steam
+    - PS4 + 5
+    - Current and last gen Xbox
+
+Platforms to add:
+    - GoG
+    - Epic
+
+
+
+Later Nice to Haves:
+1. Show all trophies won
+2. Show which difficulties have been completed (have to figure out how exactly)
+3. Ability to buy the game and show all prices with the best deal showing first
+
+
+Questions: 
